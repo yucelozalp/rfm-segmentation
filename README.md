@@ -61,7 +61,7 @@ A modern RFM (Recency, Frequency, Monetary) analysis interface for customer segm
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/username/rfm-segmentation.git
+git clone https://github.com/yucelozalp/rfm-segmentation.git
 cd rfm-segmentation
 ```
 
