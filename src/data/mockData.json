@@ -1,0 +1,902 @@
+[
+  {
+    "id": "customer_001",
+    "recency": 15,
+    "frequency": 42,
+    "monetary": 8750
+  },
+  {
+    "id": "customer_002",
+    "recency": 89,
+    "frequency": 18,
+    "monetary": 3420
+  },
+  {
+    "id": "customer_003",
+    "recency": 234,
+    "frequency": 7,
+    "monetary": 1250
+  },
+  {
+    "id": "customer_004",
+    "recency": 45,
+    "frequency": 31,
+    "monetary": 6890
+  },
+  {
+    "id": "customer_005",
+    "recency": 12,
+    "frequency": 48,
+    "monetary": 9850
+  },
+  {
+    "id": "customer_006",
+    "recency": 156,
+    "frequency": 12,
+    "monetary": 2340
+  },
+  {
+    "id": "customer_007",
+    "recency": 67,
+    "frequency": 25,
+    "monetary": 4560
+  },
+  {
+    "id": "customer_008",
+    "recency": 298,
+    "frequency": 4,
+    "monetary": 890
+  },
+  {
+    "id": "customer_009",
+    "recency": 23,
+    "frequency": 38,
+    "monetary": 7230
+  },
+  {
+    "id": "customer_010",
+    "recency": 134,
+    "frequency": 15,
+    "monetary": 2890
+  },
+  {
+    "id": "customer_011",
+    "recency": 78,
+    "frequency": 22,
+    "monetary": 4120
+  },
+  {
+    "id": "customer_012",
+    "recency": 345,
+    "frequency": 2,
+    "monetary": 450
+  },
+  {
+    "id": "customer_013",
+    "recency": 34,
+    "frequency": 35,
+    "monetary": 6540
+  },
+  {
+    "id": "customer_014",
+    "recency": 189,
+    "frequency": 9,
+    "monetary": 1780
+  },
+  {
+    "id": "customer_015",
+    "recency": 56,
+    "frequency": 28,
+    "monetary": 5230
+  },
+  {
+    "id": "customer_016",
+    "recency": 267,
+    "frequency": 6,
+    "monetary": 1120
+  },
+  {
+    "id": "customer_017",
+    "recency": 19,
+    "frequency": 44,
+    "monetary": 8340
+  },
+  {
+    "id": "customer_018",
+    "recency": 123,
+    "frequency": 17,
+    "monetary": 3210
+  },
+  {
+    "id": "customer_019",
+    "recency": 87,
+    "frequency": 21,
+    "monetary": 3890
+  },
+  {
+    "id": "customer_020",
+    "recency": 312,
+    "frequency": 3,
+    "monetary": 670
+  },
+  {
+    "id": "customer_021",
+    "recency": 41,
+    "frequency": 33,
+    "monetary": 6120
+  },
+  {
+    "id": "customer_022",
+    "recency": 178,
+    "frequency": 11,
+    "monetary": 2450
+  },
+  {
+    "id": "customer_023",
+    "recency": 29,
+    "frequency": 37,
+    "monetary": 6890
+  },
+  {
+    "id": "customer_024",
+    "recency": 201,
+    "frequency": 8,
+    "monetary": 1560
+  },
+  {
+    "id": "customer_025",
+    "recency": 63,
+    "frequency": 26,
+    "monetary": 4780
+  },
+  {
+    "id": "customer_026",
+    "recency": 289,
+    "frequency": 5,
+    "monetary": 980
+  },
+  {
+    "id": "customer_027",
+    "recency": 17,
+    "frequency": 46,
+    "monetary": 8920
+  },
+  {
+    "id": "customer_028",
+    "recency": 145,
+    "frequency": 14,
+    "monetary": 2780
+  },
+  {
+    "id": "customer_029",
+    "recency": 72,
+    "frequency": 24,
+    "monetary": 4340
+  },
+  {
+    "id": "customer_030",
+    "recency": 356,
+    "frequency": 1,
+    "monetary": 230
+  },
+  {
+    "id": "customer_031",
+    "recency": 38,
+    "frequency": 34,
+    "monetary": 6340
+  },
+  {
+    "id": "customer_032",
+    "recency": 167,
+    "frequency": 13,
+    "monetary": 2560
+  },
+  {
+    "id": "customer_033",
+    "recency": 52,
+    "frequency": 29,
+    "monetary": 5450
+  },
+  {
+    "id": "customer_034",
+    "recency": 223,
+    "frequency": 7,
+    "monetary": 1340
+  },
+  {
+    "id": "customer_035",
+    "recency": 26,
+    "frequency": 39,
+    "monetary": 7340
+  },
+  {
+    "id": "customer_036",
+    "recency": 198,
+    "frequency": 10,
+    "monetary": 1890
+  },
+  {
+    "id": "customer_037",
+    "recency": 81,
+    "frequency": 23,
+    "monetary": 4230
+  },
+  {
+    "id": "customer_038",
+    "recency": 334,
+    "frequency": 2,
+    "monetary": 560
+  },
+  {
+    "id": "customer_039",
+    "recency": 44,
+    "frequency": 32,
+    "monetary": 5890
+  },
+  {
+    "id": "customer_040",
+    "recency": 156,
+    "frequency": 12,
+    "monetary": 2340
+  },
+  {
+    "id": "customer_041",
+    "recency": 69,
+    "frequency": 25,
+    "monetary": 4670
+  },
+  {
+    "id": "customer_042",
+    "recency": 278,
+    "frequency": 5,
+    "monetary": 1120
+  },
+  {
+    "id": "customer_043",
+    "recency": 21,
+    "frequency": 41,
+    "monetary": 7890
+  },
+  {
+    "id": "customer_044",
+    "recency": 134,
+    "frequency": 15,
+    "monetary": 2890
+  },
+  {
+    "id": "customer_045",
+    "recency": 58,
+    "frequency": 27,
+    "monetary": 5120
+  },
+  {
+    "id": "customer_046",
+    "recency": 245,
+    "frequency": 6,
+    "monetary": 1230
+  },
+  {
+    "id": "customer_047",
+    "recency": 33,
+    "frequency": 36,
+    "monetary": 6780
+  },
+  {
+    "id": "customer_048",
+    "recency": 189,
+    "frequency": 9,
+    "monetary": 1780
+  },
+  {
+    "id": "customer_049",
+    "recency": 76,
+    "frequency": 22,
+    "monetary": 4120
+  },
+  {
+    "id": "customer_050",
+    "recency": 301,
+    "frequency": 4,
+    "monetary": 780
+  },
+  {
+    "id": "customer_051",
+    "recency": 47,
+    "frequency": 30,
+    "monetary": 5670
+  },
+  {
+    "id": "customer_052",
+    "recency": 167,
+    "frequency": 13,
+    "monetary": 2560
+  },
+  {
+    "id": "customer_053",
+    "recency": 84,
+    "frequency": 21,
+    "monetary": 3890
+  },
+  {
+    "id": "customer_054",
+    "recency": 312,
+    "frequency": 3,
+    "monetary": 670
+  },
+  {
+    "id": "customer_055",
+    "recency": 28,
+    "frequency": 38,
+    "monetary": 7120
+  },
+  {
+    "id": "customer_056",
+    "recency": 178,
+    "frequency": 11,
+    "monetary": 2450
+  },
+  {
+    "id": "customer_057",
+    "recency": 61,
+    "frequency": 26,
+    "monetary": 4890
+  },
+  {
+    "id": "customer_058",
+    "recency": 256,
+    "frequency": 6,
+    "monetary": 1340
+  },
+  {
+    "id": "customer_059",
+    "recency": 35,
+    "frequency": 35,
+    "monetary": 6540
+  },
+  {
+    "id": "customer_060",
+    "recency": 189,
+    "frequency": 9,
+    "monetary": 1780
+  },
+  {
+    "id": "customer_061",
+    "recency": 73,
+    "frequency": 24,
+    "monetary": 4450
+  },
+  {
+    "id": "customer_062",
+    "recency": 289,
+    "frequency": 5,
+    "monetary": 980
+  },
+  {
+    "id": "customer_063",
+    "recency": 18,
+    "frequency": 45,
+    "monetary": 8560
+  },
+  {
+    "id": "customer_064",
+    "recency": 145,
+    "frequency": 14,
+    "monetary": 2780
+  },
+  {
+    "id": "customer_065",
+    "recency": 67,
+    "frequency": 25,
+    "monetary": 4670
+  },
+  {
+    "id": "customer_066",
+    "recency": 334,
+    "frequency": 2,
+    "monetary": 560
+  },
+  {
+    "id": "customer_067",
+    "recency": 42,
+    "frequency": 33,
+    "monetary": 6230
+  },
+  {
+    "id": "customer_068",
+    "recency": 198,
+    "frequency": 10,
+    "monetary": 1890
+  },
+  {
+    "id": "customer_069",
+    "recency": 79,
+    "frequency": 23,
+    "monetary": 4230
+  },
+  {
+    "id": "customer_070",
+    "recency": 267,
+    "frequency": 6,
+    "monetary": 1120
+  },
+  {
+    "id": "customer_071",
+    "recency": 25,
+    "frequency": 39,
+    "monetary": 7450
+  },
+  {
+    "id": "customer_072",
+    "recency": 156,
+    "frequency": 12,
+    "monetary": 2340
+  },
+  {
+    "id": "customer_073",
+    "recency": 88,
+    "frequency": 20,
+    "monetary": 3780
+  },
+  {
+    "id": "customer_074",
+    "recency": 312,
+    "frequency": 3,
+    "monetary": 670
+  },
+  {
+    "id": "customer_075",
+    "recency": 51,
+    "frequency": 29,
+    "monetary": 5450
+  },
+  {
+    "id": "customer_076",
+    "recency": 223,
+    "frequency": 7,
+    "monetary": 1340
+  },
+  {
+    "id": "customer_077",
+    "recency": 36,
+    "frequency": 34,
+    "monetary": 6450
+  },
+  {
+    "id": "customer_078",
+    "recency": 189,
+    "frequency": 9,
+    "monetary": 1780
+  },
+  {
+    "id": "customer_079",
+    "recency": 74,
+    "frequency": 24,
+    "monetary": 4340
+  },
+  {
+    "id": "customer_080",
+    "recency": 298,
+    "frequency": 4,
+    "monetary": 890
+  },
+  {
+    "id": "customer_081",
+    "recency": 29,
+    "frequency": 37,
+    "monetary": 6890
+  },
+  {
+    "id": "customer_082",
+    "recency": 167,
+    "frequency": 13,
+    "monetary": 2560
+  },
+  {
+    "id": "customer_083",
+    "recency": 82,
+    "frequency": 22,
+    "monetary": 4120
+  },
+  {
+    "id": "customer_084",
+    "recency": 345,
+    "frequency": 2,
+    "monetary": 450
+  },
+  {
+    "id": "customer_085",
+    "recency": 46,
+    "frequency": 31,
+    "monetary": 5780
+  },
+  {
+    "id": "customer_086",
+    "recency": 201,
+    "frequency": 8,
+    "monetary": 1560
+  },
+  {
+    "id": "customer_087",
+    "recency": 65,
+    "frequency": 26,
+    "monetary": 4780
+  },
+  {
+    "id": "customer_088",
+    "recency": 278,
+    "frequency": 5,
+    "monetary": 1120
+  },
+  {
+    "id": "customer_089",
+    "recency": 22,
+    "frequency": 40,
+    "monetary": 7670
+  },
+  {
+    "id": "customer_090",
+    "recency": 145,
+    "frequency": 14,
+    "monetary": 2780
+  },
+  {
+    "id": "customer_091",
+    "recency": 77,
+    "frequency": 23,
+    "monetary": 4230
+  },
+  {
+    "id": "customer_092",
+    "recency": 289,
+    "frequency": 5,
+    "monetary": 980
+  },
+  {
+    "id": "customer_093",
+    "recency": 39,
+    "frequency": 34,
+    "monetary": 6340
+  },
+  {
+    "id": "customer_094",
+    "recency": 178,
+    "frequency": 11,
+    "monetary": 2450
+  },
+  {
+    "id": "customer_095",
+    "recency": 71,
+    "frequency": 25,
+    "monetary": 4560
+  },
+  {
+    "id": "customer_096",
+    "recency": 312,
+    "frequency": 3,
+    "monetary": 670
+  },
+  {
+    "id": "customer_097",
+    "recency": 31,
+    "frequency": 36,
+    "monetary": 6780
+  },
+  {
+    "id": "customer_098",
+    "recency": 156,
+    "frequency": 12,
+    "monetary": 2340
+  },
+  {
+    "id": "customer_099",
+    "recency": 85,
+    "frequency": 21,
+    "monetary": 3890
+  },
+  {
+    "id": "customer_100",
+    "recency": 267,
+    "frequency": 6,
+    "monetary": 1120
+  },
+  {
+    "id": "customer_101",
+    "recency": 24,
+    "frequency": 39,
+    "monetary": 7340
+  },
+  {
+    "id": "customer_102",
+    "recency": 189,
+    "frequency": 9,
+    "monetary": 1780
+  },
+  {
+    "id": "customer_103",
+    "recency": 68,
+    "frequency": 25,
+    "monetary": 4670
+  },
+  {
+    "id": "customer_104",
+    "recency": 334,
+    "frequency": 2,
+    "monetary": 560
+  },
+  {
+    "id": "customer_105",
+    "recency": 43,
+    "frequency": 32,
+    "monetary": 5890
+  },
+  {
+    "id": "customer_106",
+    "recency": 198,
+    "frequency": 10,
+    "monetary": 1890
+  },
+  {
+    "id": "customer_107",
+    "recency": 80,
+    "frequency": 23,
+    "monetary": 4230
+  },
+  {
+    "id": "customer_108",
+    "recency": 298,
+    "frequency": 4,
+    "monetary": 890
+  },
+  {
+    "id": "customer_109",
+    "recency": 27,
+    "frequency": 38,
+    "monetary": 7120
+  },
+  {
+    "id": "customer_110",
+    "recency": 167,
+    "frequency": 13,
+    "monetary": 2560
+  },
+  {
+    "id": "customer_111",
+    "recency": 75,
+    "frequency": 24,
+    "monetary": 4340
+  },
+  {
+    "id": "customer_112",
+    "recency": 289,
+    "frequency": 5,
+    "monetary": 980
+  },
+  {
+    "id": "customer_113",
+    "recency": 37,
+    "frequency": 35,
+    "monetary": 6540
+  },
+  {
+    "id": "customer_114",
+    "recency": 178,
+    "frequency": 11,
+    "monetary": 2450
+  },
+  {
+    "id": "customer_115",
+    "recency": 83,
+    "frequency": 22,
+    "monetary": 4120
+  },
+  {
+    "id": "customer_116",
+    "recency": 312,
+    "frequency": 3,
+    "monetary": 670
+  },
+  {
+    "id": "customer_117",
+    "recency": 49,
+    "frequency": 30,
+    "monetary": 5670
+  },
+  {
+    "id": "customer_118",
+    "recency": 201,
+    "frequency": 8,
+    "monetary": 1560
+  },
+  {
+    "id": "customer_119",
+    "recency": 66,
+    "frequency": 26,
+    "monetary": 4780
+  },
+  {
+    "id": "customer_120",
+    "recency": 278,
+    "frequency": 5,
+    "monetary": 1120
+  },
+  {
+    "id": "customer_121",
+    "recency": 20,
+    "frequency": 43,
+    "monetary": 8230
+  },
+  {
+    "id": "customer_122",
+    "recency": 145,
+    "frequency": 14,
+    "monetary": 2780
+  },
+  {
+    "id": "customer_123",
+    "recency": 78,
+    "frequency": 23,
+    "monetary": 4230
+  },
+  {
+    "id": "customer_124",
+    "recency": 345,
+    "frequency": 2,
+    "monetary": 450
+  },
+  {
+    "id": "customer_125",
+    "recency": 40,
+    "frequency": 33,
+    "monetary": 6230
+  },
+  {
+    "id": "customer_126",
+    "recency": 189,
+    "frequency": 9,
+    "monetary": 1780
+  },
+  {
+    "id": "customer_127",
+    "recency": 72,
+    "frequency": 25,
+    "monetary": 4560
+  },
+  {
+    "id": "customer_128",
+    "recency": 267,
+    "frequency": 6,
+    "monetary": 1120
+  },
+  {
+    "id": "customer_129",
+    "recency": 32,
+    "frequency": 36,
+    "monetary": 6780
+  },
+  {
+    "id": "customer_130",
+    "recency": 156,
+    "frequency": 12,
+    "monetary": 2340
+  },
+  {
+    "id": "customer_131",
+    "recency": 86,
+    "frequency": 21,
+    "monetary": 3890
+  },
+  {
+    "id": "customer_132",
+    "recency": 298,
+    "frequency": 4,
+    "monetary": 890
+  },
+  {
+    "id": "customer_133",
+    "recency": 48,
+    "frequency": 31,
+    "monetary": 5780
+  },
+  {
+    "id": "customer_134",
+    "recency": 223,
+    "frequency": 7,
+    "monetary": 1340
+  },
+  {
+    "id": "customer_135",
+    "recency": 64,
+    "frequency": 26,
+    "monetary": 4890
+  },
+  {
+    "id": "customer_136",
+    "recency": 334,
+    "frequency": 2,
+    "monetary": 560
+  },
+  {
+    "id": "customer_137",
+    "recency": 30,
+    "frequency": 37,
+    "monetary": 6890
+  },
+  {
+    "id": "customer_138",
+    "recency": 167,
+    "frequency": 13,
+    "monetary": 2560
+  },
+  {
+    "id": "customer_139",
+    "recency": 81,
+    "frequency": 22,
+    "monetary": 4120
+  },
+  {
+    "id": "customer_140",
+    "recency": 289,
+    "frequency": 5,
+    "monetary": 980
+  },
+  {
+    "id": "customer_141",
+    "recency": 25,
+    "frequency": 39,
+    "monetary": 7450
+  },
+  {
+    "id": "customer_142",
+    "recency": 178,
+    "frequency": 11,
+    "monetary": 2450
+  },
+  {
+    "id": "customer_143",
+    "recency": 70,
+    "frequency": 25,
+    "monetary": 4670
+  },
+  {
+    "id": "customer_144",
+    "recency": 312,
+    "frequency": 3,
+    "monetary": 670
+  },
+  {
+    "id": "customer_145",
+    "recency": 41,
+    "frequency": 33,
+    "monetary": 6120
+  },
+  {
+    "id": "customer_146",
+    "recency": 198,
+    "frequency": 10,
+    "monetary": 1890
+  },
+  {
+    "id": "customer_147",
+    "recency": 77,
+    "frequency": 24,
+    "monetary": 4340
+  },
+  {
+    "id": "customer_148",
+    "recency": 256,
+    "frequency": 6,
+    "monetary": 1340
+  },
+  {
+    "id": "customer_149",
+    "recency": 33,
+    "frequency": 36,
+    "monetary": 6780
+  },
+  {
+    "id": "customer_150",
+    "recency": 145,
+    "frequency": 14,
+    "monetary": 2780
+  }
+]
